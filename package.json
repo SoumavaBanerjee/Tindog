@@ -1,0 +1,15 @@
+{
+  "name": "tindog",
+  "version": "1.0.0",
+  "description": "Simple static website",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d Tindog"
+  },
+  "author": "Soumava Banerjee",
+  "license": "ISC",
+  "homepage": "https://SoumavaBanerjee.github.io/Tindog",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
