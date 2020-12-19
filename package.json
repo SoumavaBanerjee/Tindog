@@ -4,7 +4,7 @@
   "description": "Simple static website",
   "main": "index.html",
   "scripts": {
-    "deploy": "gh-pages -d Tindog"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Soumava Banerjee",
   "license": "ISC",
